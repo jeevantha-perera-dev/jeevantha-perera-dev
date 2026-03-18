@@ -31,7 +31,7 @@
 
 <div align="center">
 
-<img src="https://skillicons.dev/icons?i=java,js,ts,react,nodejs,html,css,cs,cpp,spring,dotnet,mysql,postgres,mongodb,git,github,vscode,postman" />
+<img src="https://skillicons.dev/icons?i=java,js,ts,react,nodejs,html,css,cs,cpp,spring,dotnet,mysql,postgres,mongodb,git,github,postman" />
 
 <br/>
 
@@ -45,7 +45,7 @@
 
 <div align="center">
 
-<img src="https://skillicons.dev/icons?i=figma,photoshop,illustrator" />
+<img src="https://skillicons.dev/icons?i=figma,photoshop,illustrator,vscode" />
 
 <br/><br/>
 
