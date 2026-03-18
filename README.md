@@ -1,10 +1,10 @@
 <div align="center">
 
 <!-- Animated Gradient Banner -->
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,50:2c5364,100:00F7FF&height=220&section=header&text=Jeevantha%20Perera&fontSize=40&fontColor=ffffff&animation=fadeIn&fontAlignY=35" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:4A00E0,50:8E2DE2,100:F000FF&height=250&width=100%&section=header&text=Jeevantha%20Perera&fontSize=60&fontColor=ffffff&animation=fadeIn&fontAlignY=35" />
 
 <!-- Typing Animation -->
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&duration=2500&pause=1000&color=00F7FF&center=true&vCenter=true&width=600&lines=Creative+Problem+Solver;Full+Stack+Developer;Curious+about+new+technology;Always+learning+new+things;Also+a+Rotaractor" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=30&duration=2500&pause=1500&color=00F7FF&center=true&vCenter=true&width=600&lines=Creative+Problem+Solver;Full+Stack+Developer;Curious+about+new+technology;Always+learning+new+things;Also+a+Proud+Rotaractor" />
 
 <br/>
 
