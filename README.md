@@ -1,109 +1,144 @@
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=00c853&height=300&section=header&text=Hi,%20I'm%20Jeevantha&fontSize=90&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Software%20Engineering%20Student%20@%20NIBM&descSize=20&descAlignY=55&descAlign=50" width="100%"/>
-</div>
 
-<h2 align="center">🚀 About Me</h2>
+<!-- Animated Gradient Banner -->
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,50:2c5364,100:00F7FF&height=220&section=header&text=Jeevantha%20Perera&fontSize=40&fontColor=ffffff&animation=fadeIn&fontAlignY=35" />
 
-<p align="center">
-  I am a Software Engineering undergraduate at NIBM with a passion for Full-Stack Development.
-  <br>
-  I love turning complex problems into beautiful, scalable software.
+<!-- Typing Animation -->
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&duration=2500&pause=1000&color=00F7FF&center=true&vCenter=true&width=600&lines=Creative+Problem+Solver;Full+Stack+Developer;Curious+about+new+technology;Always+learning+new+things;Also+a+Rotaractor" />
+
+<br/>
+
+<!-- Links -->
+<p>
+<a href="https://www.linkedin.com/in/jeevantha-perera-b5322a253">LinkedIn</a> •
+<a href="mailto:jeevanthaa99@gmail.com">Email</a> •
+<a href="https://jeevantha-portfolio.vercel.app/#projects">Portfolio</a>
 </p>
 
+</div>
+
+## 🧠 About Me
+
+💡 Motivated Software Engineering undergraduate at **NIBM** with strong practical experience in Full Stack Development using **Java (Spring Boot)** and **React (TypeScript)**.  
+
+🚀 Passionate about building scalable web applications and solving real-world problems through code.  
+
+🎯 Currently seeking an **Onsite/Hybrid Internship** to contribute to enterprise-level software solutions in an agile environment.
+
+---
+
+## 🛠️ Tech Stack
+
 <div align="center">
 
-🔭 **Working on**: CourseCol (EdTech Platform) & Surplus (Food Waste Solution)  
-🌱 **Learning**: Spring Boot, Microservices & Advanced React patterns  
-👯 **Looking to collaborate on**: Open Source Java/React Projects  
-💬 **Ask me about**: Java, React, REST APIs, & 4-Layer Architecture  
-⚡ **Fun fact**: I debug with console.log() and I'm not ashamed!
+<img src="https://skillicons.dev/icons?i=java,js,ts,react,nodejs,html,css,cs,cpp,spring,dotnet,mysql,postgres,mongodb,git,github,vscode,postman" />
+
+<br/>
+
+<code>Oracle DB</code> • <code>Microsoft SQL Server</code> • <code>Hibernate (JPA)</code> • <code>IntelliJ IDEA</code> • <code>Cursor</code>
 
 </div>
 
 ---
 
-<h1 align="center">Hey 👋What's Up?</h1>
-
-###
-
-<div align="center">
-  <img src="https://skillicons.dev/icons?i=ts" height="60" alt="typescript logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=nextjs" height="60" alt="nextjs logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=tailwind" height="60" alt="tailwindcss logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="60" alt="javascript logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original.svg" height="60" alt="spring logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" height="60" alt="cplusplus logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="60" alt="java logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" height="60" alt="csharp logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/android/android-original.svg" height="60" alt="android logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="60" alt="mysql logo"  />
-</div>
-
-###
-
-<div align="center">
-  <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="linkedin logo"  />
-  <img src="https://img.shields.io/static/v1?message=Twitter&logo=twitter&label=&color=1DA1F2&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="twitter logo"  />
-  <img src="https://img.shields.io/static/v1?message=Discord&logo=discord&label=&color=7289DA&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="discord logo"  />
-</div>
-
-###
-
-
-<h2 align="center">🛠 Languages & Tools</h2>
-
-<div align="center">
-  <img src="https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB" />
-  <img src="https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white" />
-  <img src="https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E" />
-  <img src="https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white" />
-  <img src="https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white" />
-  <br>
-  <img src="https://img.shields.io/badge/spring-%236DB33F.svg?style=for-the-badge&logo=spring&logoColor=white" />
-  <img src="https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white" />
-  <img src="https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white" />
-  <img src="https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white" />
-</div>
-
----
-
-###
-
-<div align="left">
-</div>
-
-###
-
-<div align="left">
-</div>
-
-###
+## 🎨 Design & Tools
 
 <div align="center">
 
-  <img src="https://github-readme-stats.vercel.app/api?username=jeevantha-perera-dev&show_icons=true&theme=dark&hide_border=true&count_private=true" />
-  <br/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=jeevantha-perera-dev&theme=dark&hide_border=true" />
-  
-  <br/><br/>
+<img src="https://skillicons.dev/icons?i=figma,photoshop,illustrator" />
 
-  <img src="https://github.com/jeevantha-perera-dev/jeevantha-perera-dev/blob/output/github-contribution-grid-snake.svg" alt="Snake Animation" width="100%"/>
+<br/><br/>
+
+<!-- Extra tools with icons -->
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/intellij/intellij-original.svg" width="50" height="50"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" width="50" height="50"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/microsoftsqlserver/microsoftsqlserver-plain.svg" width="50" height="50"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/oracle/oracle-original.svg" width="50" height="50"/>
+
+<br/>
+
+<p>
+<code>Hibernate (JPA)</code> • <code>Cursor</code>
+</p>
 
 </div>
 
 ---
 
+## 💼 Experience
+
+**💻 Software Engineering Intern (Remote)**  
+📍 StarLeap  
+🕒 6 Months  
+
+- Worked on real-world full-stack development tasks  
+- Collaborated using Git workflows  
+- Built scalable and maintainable applications  
+
+---
+
+## ⚡ Live Coding Vibe
+
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=00c853&height=100&section=footer"/>
-  <br/>
-  <img src="https://komarev.com/ghpvc/?username=jeevantha-perera-dev&label=Profile%20Views&color=00c853&style=flat" />
+<table>
+<tr>
+<td width="70%">
+<img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="100%" />
+</td>
+
+<td width="30%">
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=14&duration=2500&pause=1000&color=FF6B6B&center=true&vCenter=true&multiline=true&width=200&height=150&lines=const+dev+=+{;++name:+Jeevantha,;++stack:+Full+Stack,;++focus:+Spring+%2B+React,;++goal:+Build+Impactful+Apps;++};" />
+</td>
+</tr>
+</table>
+</div>
+
+---
+
+## 📊 GitHub Analytics
+
+<div align="center">
+
+<table>
+<tr>
+<td>
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=jeevantha-perera-dev&show_icons=true&count_private=true&hide_border=true&title_color=00F7FF&icon_color=00F7FF&text_color=c9d1d9&bg_color=0d1117" />
+</td>
+
+<td>
+<img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=jeevantha-perera-dev&theme=dark&hide_border=true&background=0d1117" />
+</td>
+</tr>
+</table>
+
+<br/>
+
+<img width="60%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jeevantha-perera-dev&layout=compact&theme=tokyonight&hide_border=true" />
+
+</div>
+
+---
+
+## 🐍 Contribution Snake
+
+<div align="center">
+
+<img src="https://raw.githubusercontent.com/jeevantha-perera-dev/jeevantha-perera-dev/output/github-contribution-grid-snake.svg" />
+
+</div>
+
+---
+
+## 🌐 Connect With Me
+
+- 🔗 LinkedIn: https://www.linkedin.com/in/jeevantha-perera-b5322a253  
+- 🌍 Portfolio: https://jeevantha-portfolio.vercel.app/#projects  
+- 📧 Email: jeevanthaa99@gmail.com  
+
+---
+
+<div align="center">
+
+✨ *"Code. Learn. Build. Repeat."* ✨
+
 </div>
