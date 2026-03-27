@@ -12,7 +12,7 @@
 <p>
 <a href="https://www.linkedin.com/in/jeevantha-perera-b5322a253">LinkedIn</a> •
 <a href="mailto:jeevanthaa99@gmail.com">Email</a> •
-<a href="https://jeevantha-portfolio.vercel.app/#projects">Portfolio</a>
+<a href="https://jeevantha-portfolio.vercel.app/">Portfolio</a>
 </p>
 
 </div>
@@ -132,7 +132,7 @@
 ## 🌐 Connect With Me
 
 - 🔗 LinkedIn: https://www.linkedin.com/in/jeevantha-perera-b5322a253  
-- 🌍 Portfolio: https://jeevantha-portfolio.vercel.app/#projects  
+- 🌍 Portfolio: https://jeevantha-portfolio.vercel.app/
 - 📧 Email: jeevanthaa99@gmail.com  
 
 ---
