@@ -71,7 +71,7 @@
 📍 StarLeap  
 🕒 6 Months  
 
-- Worked on real-world full-stack development tasks  
+- Worked on real world full stack development tasks  
 - Collaborated using Git workflows  
 - Built scalable and maintainable applications  
 
