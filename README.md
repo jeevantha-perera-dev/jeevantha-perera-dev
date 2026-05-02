@@ -21,7 +21,7 @@
 
 💡 Motivated Software Engineering undergraduate at **NIBM** with strong practical experience in Full Stack Development using **Java (Spring Boot)** and **React (TypeScript)**.  
 
-🚀 Passionate about building scalable web applications and solving real-world problems through code.  
+🚀 Passionate about building scalable web applications and solving real world problems through code.  
 
 🎯 Currently seeking an **Onsite/Hybrid Internship** to contribute to enterprise-level software solutions in an agile environment.
 
@@ -71,6 +71,7 @@
 📍 StarLeap  
 🕒 6 Months  
 
+- UI/UX Designer
 - Worked on real world full stack development tasks  
 - Collaborated using Git workflows  
 - Built scalable and maintainable applications  
